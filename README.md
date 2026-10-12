@@ -1,2 +1,2 @@
-# a-interesting-survey
+# an-interesting-survey
 An interesting survey result :)
